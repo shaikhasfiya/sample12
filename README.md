@@ -1,7 +1,8 @@
 Sample program to divide 
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     float num1, num2, result;
 
  
