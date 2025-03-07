@@ -1,3 +1,5 @@
+Sample program to divide 
+
 #include <stdio.h>
 
 int main() {
